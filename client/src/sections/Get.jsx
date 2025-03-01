@@ -3,7 +3,7 @@ import { Card1, Card2, Card3 } from '../assets'
 const Get = () => {
   return (
       <div className='pb-40'>
-          <div className="text-center">
+          <div className="text-center py-4">
           <button className='bg-[#D3FFCA1A] text-center px-10 py-4 rounded-4xl'>
          What you’ll get
           </button>
@@ -11,7 +11,7 @@ const Get = () => {
           <h3 className='text-5xl text-center px-52 py-4  opacity-70'>
               © 2025 OPT/CI. All Rights Reserved
           </h3>
-          <div className="flex gap-6 justify-center py-4">
+          <div className="flex gap-6 justify-center py-6">
               <div className='border max-w-sm rounded-xl px-4 py-6 border-gray-500 flex flex-col'>
                   <img src={Card1} />
                   <div>

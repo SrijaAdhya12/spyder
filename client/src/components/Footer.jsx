@@ -9,12 +9,12 @@ const Footer = () => {
                   { } click!
               </span>
           </h3>
-          <h5 className="text-md py-4">
+          <h5 className="text-md opacity-50 py-4">
               Reduce carbon footprint and streamline development.  Paste your <br/> GitHub repo or connect your account for optimized workflow
           </h5>
           <div className="flex justify-center py-4">
               
-          <button className="bg-green-300 rounded-2xl text-black font-bold gap-4 px-4 py-4 border flex items-center">
+          <button className="bg-green-300 rounded-2xl  text-black font-bold gap-4 px-4 py-4 border flex items-center">
                                     <FaGithub />
               Connect your GitHub account
           </button>
