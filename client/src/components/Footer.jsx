@@ -9,7 +9,7 @@ const Footer = () => {
                   { } click!
               </span>
           </h3>
-          <h5 className="text-md">
+          <h5 className="text-md py-4">
               Reduce carbon footprint and streamline development.  Paste your <br/> GitHub repo or connect your account for optimized workflow
           </h5>
           <div className="flex justify-center py-4">
