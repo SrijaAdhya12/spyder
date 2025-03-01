@@ -1,7 +1,7 @@
 
 const Navbar = () => {
   return (
-      <div className="flex items-center px-14 py-4 sticky top-0 z-50  backdrop-blur-md border-b border-neutral-700/80">
+      <div className="flex items-center px-14 py-4  sticky top-0 z-50  backdrop-blur-md border-b border-neutral-700/80">
           <div className="flex space-x-48">
           <span className="text-lg">
               OPT/CI
