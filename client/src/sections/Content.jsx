@@ -9,7 +9,9 @@ const Content = () => {
               We make GitHub workflows faster, smarter, and  greener. Our AI optimizes CI/CD pipelines to
               reduce execution time and
              carbon footprint—
-so you ship code efficiently without extra effort. 
+              so you ship code efficiently without extra <span className="italic text-[#D3FFCA]">
+                  effort
+              </span>. 
           </p>
     </div>
   )
