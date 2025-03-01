@@ -7,10 +7,8 @@ const Navbar = () => {
               OPT/CI
               </span>
               <div>
-                  
               </div>
               <div>
-                  
               </div>
           <div className="flex gap-40 text-[16px] opacity-60 items-center">
               <span>Home</span>
